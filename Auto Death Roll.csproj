@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/14.0.2">
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <PackageProjectUrl>https://github.com/seventity7/Auto-Death-Roll</PackageProjectUrl>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Platforms>x64</Platforms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>AutoDeathRoll</AssemblyName>
+    <RootNamespace>AutoDeathRoll</RootNamespace>
+    <Author>Bryer</Author>
+    <Name>Auto Death Roll</Name>
+    <Punchline>Automate and track Death Roll matches.</Punchline>
+    <Description>Easyest Death Roll of your life.</Description>
+    <RepoUrl>https://github.com/seventity7/Auto-Death-Roll</RepoUrl>
+    <ApplicableVersion>any</ApplicableVersion>
+    <DalamudApiLevel>14</DalamudApiLevel>
+    <IconUrl>https://raw.githubusercontent.com/seventity7/Auto-Death-Roll/main/autodr.png</IconUrl>
+    <Tags>ffxiv;plugin;deathroll;random;gamba;track</Tags>
+  </PropertyGroup>
+</Project>

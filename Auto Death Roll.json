@@ -1,0 +1,10 @@
+{
+  "Name": "Auto Death Roll",
+  "Author": "Bryer",
+  "Punchline": "Automate and track Death Roll matches.",
+  "Description": "Easyest Death Roll of your life.",
+  "RepoUrl": "https://github.com/seventity7/Auto-Death-Roll",
+  "ApplicableVersion": "any",
+  "IconUrl": "https://raw.githubusercontent.com/seventity7/autodr.png",
+  "Tags": ["ffxiv", "plugin", "deathroll", "random", "gamba", "track"]
+}

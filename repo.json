@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "Bryer",
+    "Name": "Auto Death Roll",
+    "Punchline": "Automate and track Death Roll matches.",
+    "Description": "Easyest Death Roll of your life.",
+    "InternalName": "AutoDeathRoll",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://github.com/seventity7/Auto-Death-Roll",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1700000000,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/seventity7/Auto-Death-Roll/releases/latest/download/Auto-Death-Roll.zip",
+    "IconUrl": "https://raw.githubusercontent.com/seventity7/Auto-Death-Roll/main/autodr.png"
+  }
+]

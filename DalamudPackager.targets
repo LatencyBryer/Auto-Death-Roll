@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <Target Name="PackagePlugin" AfterTargets="Build">
+    <DalamudPackager
+      ProjectDir="$(ProjectDir)"
+      OutputPath="$(OutputPath)"
+      AssemblyName="AutoDeathRoll"
+      ManifestType="csproj"
+      Name="Auto Death Roll"
+      Author="Bryer"
+      Punchline="Automate and track Death Roll matches in FFXIV."
+      Description="Tracks your target, parses /random rolls, and assists with Death Roll flow."
+      RepoUrl="https://github.com/seventity7/Auto-Death-Roll"
+      ApplicableVersion="any"
+      DalamudApiLevel="14"
+      IconUrl="https://raw.githubusercontent.com/seventity7/Auto-Death-Roll/main/Auto%20Death%20Roll.png"
+      Tags="ffxiv;plugin;deathroll;random;gamba;track" />
+  </Target>
+</Project>
